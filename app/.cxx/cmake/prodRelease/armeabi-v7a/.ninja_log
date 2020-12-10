@@ -1,3 +1,3 @@
 # ninja log v5
-1	1245	1607552181	CMakeFiles/monerujo.dir/src/main/cpp/monerujo.cpp.o	8b71ee158de9c432
-1245	2091	1607552182	../../../../build/intermediates/cmake/prodRelease/obj/armeabi-v7a/libmonerujo.so	d26d4ddb278967a9
+1	1216	629297012	CMakeFiles/monerujo.dir/src/main/cpp/monerujo.cpp.o	47e26d1ad6ff45e0
+1217	1792	629297012	../../../../build/intermediates/cmake/prodRelease/obj/armeabi-v7a/libmonerujo.so	109ec568487860b8

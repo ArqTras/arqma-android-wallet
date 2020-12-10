@@ -3,7 +3,4 @@
 *.iml
 /.idea
 /local.properties
-/captures
-.externalNativeBuild
 .DS_Store
-/app/release

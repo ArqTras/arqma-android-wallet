@@ -1,2 +1,3 @@
-ninja: Entering directory `/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodRelease/armeabi-v7a'
-ninja: no work to do.
+ninja: Entering directory `C:\GitHub\NOWE\arqma-android-wallet-new\app\.cxx\cmake\prodRelease\armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/monerujo.dir/src/main/cpp/monerujo.cpp.o
+[2/2] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\prodRelease\obj\armeabi-v7a\libmonerujo.so

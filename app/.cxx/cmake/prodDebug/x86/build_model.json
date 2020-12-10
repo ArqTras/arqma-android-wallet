@@ -5,9 +5,9 @@
     "environmentVariables": []
   },
   "cmake": {
-    "cmakeArtifactsBaseFolder": "/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/x86",
-    "cmakeServerLogFile": "/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/x86/cmake_server_log.txt",
-    "cmakeWrappingBaseFolder": "/home/arek/test/arqma-smajo-android/app/.cxx/cxx/prodDebug/x86",
+    "cmakeArtifactsBaseFolder": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\x86",
+    "cmakeServerLogFile": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\x86\\cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cxx\\prodDebug\\x86",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -15,9 +15,9 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/x86",
-      "cmakeToolchain": "/home/arek/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
-      "cmakeExecutable": "/home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/cmake",
+      "buildRoot": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\x86",
+      "cmakeToolchain": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+      "cmakeExecutable": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
       "variables": [
         {
           "name": "CMAKE_CXX_FLAGS",
@@ -25,7 +25,7 @@
         },
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/prefab/x86/prefab"
+          "value": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\prefab\\x86\\prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -33,7 +33,7 @@
         },
         {
           "name": "CMAKE_TOOLCHAIN_FILE",
-          "value": "/home/arek/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake"
+          "value": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake"
         },
         {
           "name": "ANDROID_ABI",
@@ -41,7 +41,7 @@
         },
         {
           "name": "ANDROID_NDK",
-          "value": "/home/arek/Android/Sdk/ndk/21.0.6113669"
+          "value": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669"
         },
         {
           "name": "ANDROID_PLATFORM",
@@ -53,7 +53,7 @@
         },
         {
           "name": "CMAKE_ANDROID_NDK",
-          "value": "/home/arek/Android/Sdk/ndk/21.0.6113669"
+          "value": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669"
         },
         {
           "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
@@ -61,11 +61,11 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "/home/arek/test/arqma-smajo-android/app/build/intermediates/cmake/prodDebug/obj/x86"
+          "value": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\build\\intermediates\\cmake\\prodDebug\\obj\\x86"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
-          "value": "/home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/ninja"
+          "value": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
         },
         {
           "name": "CMAKE_SYSTEM_NAME",
@@ -82,14 +82,14 @@
       ]
     }
   },
-  "cxxBuildFolder": "/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/x86",
+  "cxxBuildFolder": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\x86",
   "info": {
     "abi": "X86",
     "bitness": 32,
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/x86",
+  "originalCxxBuildFolder": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\x86",
   "variant": {
     "buildSystemArgumentList": [
       "-DANDROID_STL\u003dc++_shared"
@@ -104,24 +104,24 @@
     "module": {
       "buildSystem": "CMAKE",
       "cmake": {
-        "cmakeExe": "/home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/cmake",
+        "cmakeExe": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
         "minimumCmakeVersion": "3.10.2",
-        "ninjaExe": "/home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/ninja"
+        "ninjaExe": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
       },
-      "cmakeToolchainFile": "/home/arek/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
-      "cxxFolder": "/home/arek/test/arqma-smajo-android/app/.cxx",
+      "cmakeToolchainFile": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+      "cxxFolder": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx",
       "gradleModulePathName": ":app",
-      "intermediatesFolder": "/home/arek/test/arqma-smajo-android/app/build/intermediates",
-      "makeFile": "/home/arek/test/arqma-smajo-android/app/CMakeLists.txt",
-      "moduleBuildFile": "/home/arek/test/arqma-smajo-android/app/build.gradle",
-      "moduleRootFolder": "/home/arek/test/arqma-smajo-android/app",
+      "intermediatesFolder": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\build\\intermediates",
+      "makeFile": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+      "moduleBuildFile": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\build.gradle",
+      "moduleRootFolder": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
         "X86",
         "X86_64"
       ],
-      "ndkFolder": "/home/arek/Android/Sdk/ndk/21.0.6113669",
+      "ndkFolder": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669",
       "ndkMetaAbiList": [
         {
           "abi": "ARMEABI_V7A",
@@ -178,13 +178,13 @@
       "ndkDefaultStl": "LIBCXX_STATIC",
       "ndkVersion": "21.0.6113669",
       "project": {
-        "compilerSettingsCacheFolder": "/home/arek/test/arqma-smajo-android/.cxx",
-        "cxxFolder": "/home/arek/test/arqma-smajo-android/.cxx",
+        "compilerSettingsCacheFolder": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\.cxx",
+        "cxxFolder": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\.cxx",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "/home/arek/test/arqma-smajo-android",
-        "sdkFolder": "/home/arek/Android/Sdk",
+        "rootBuildGradleFolder": "C:\\GitHub\\NOWE\\arqma-android-wallet-new",
+        "sdkFolder": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk",
         "isPrefabEnabled": false
       },
       "splitsAbiFilterSet": [
@@ -195,17 +195,17 @@
       ],
       "stlSharedObjectMap": {
         "LIBCXX_SHARED": {
-          "ARMEABI_V7A": "/home/arek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
-          "ARM64_V8A": "/home/arek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
-          "X86": "/home/arek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
-          "X86_64": "/home/arek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+          "ARMEABI_V7A": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
         },
         "LIBCXX_STATIC": {},
         "NONE": {},
         "SYSTEM": {}
       }
     },
-    "objFolder": "/home/arek/test/arqma-smajo-android/app/build/intermediates/cmake/prodDebug/obj",
+    "objFolder": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\build\\intermediates\\cmake\\prodDebug\\obj",
     "variantName": "prodDebug",
     "validAbiList": [
       "ARMEABI_V7A",
@@ -213,8 +213,8 @@
       "X86",
       "X86_64"
     ],
-    "prefabDirectory": "/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/prefab",
+    "prefabDirectory": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\prefab",
     "prefabPackageDirectoryList": []
   },
-  "prefabFolder": "/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/prefab/x86"
+  "prefabFolder": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\prefab\\x86"
 }

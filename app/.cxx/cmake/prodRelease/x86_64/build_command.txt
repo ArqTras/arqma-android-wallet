@@ -1,22 +1,22 @@
-Executable : /home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/cmake
+Executable : C:\Users\Arek\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
 arguments : 
--H/home/arek/test/arqma-smajo-android/app
+-HC:\GitHub\NOWE\arqma-android-wallet-new\app
 -DCMAKE_CXX_FLAGS=-std=c++11
--DCMAKE_FIND_ROOT_PATH=/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodRelease/prefab/x86_64/prefab
+-DCMAKE_FIND_ROOT_PATH=C:\GitHub\NOWE\arqma-android-wallet-new\app\.cxx\cmake\prodRelease\prefab\x86_64\prefab
 -DCMAKE_BUILD_TYPE=Release
--DCMAKE_TOOLCHAIN_FILE=/home/arek/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\Arek\AppData\Local\Android\Sdk\ndk\21.0.6113669\build\cmake\android.toolchain.cmake
 -DANDROID_ABI=x86_64
--DANDROID_NDK=/home/arek/Android/Sdk/ndk/21.0.6113669
+-DANDROID_NDK=C:\Users\Arek\AppData\Local\Android\Sdk\ndk\21.0.6113669
 -DANDROID_PLATFORM=android-21
 -DCMAKE_ANDROID_ARCH_ABI=x86_64
--DCMAKE_ANDROID_NDK=/home/arek/Android/Sdk/ndk/21.0.6113669
+-DCMAKE_ANDROID_NDK=C:\Users\Arek\AppData\Local\Android\Sdk\ndk\21.0.6113669
 -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/arek/test/arqma-smajo-android/app/build/intermediates/cmake/prodRelease/obj/x86_64
--DCMAKE_MAKE_PROGRAM=/home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\GitHub\NOWE\arqma-android-wallet-new\app\build\intermediates\cmake\prodRelease\obj\x86_64
+-DCMAKE_MAKE_PROGRAM=C:\Users\Arek\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
 -DCMAKE_SYSTEM_NAME=Android
 -DCMAKE_SYSTEM_VERSION=21
 -DANDROID_STL=c++_shared
--B/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodRelease/x86_64
+-BC:\GitHub\NOWE\arqma-android-wallet-new\app\.cxx\cmake\prodRelease\x86_64
 -GNinja
 jvmArgs : 
 

@@ -2,37 +2,457 @@
   {
     "level": "INFO",
     "message": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
-    "file": "/home/arek/test/arqma-smajo-android/app/CMakeLists.txt",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
     "tag": "prodDebug|arm64-v8a"
   },
   {
     "level": "INFO",
     "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
-    "file": "/home/arek/test/arqma-smajo-android/app/CMakeLists.txt",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
     "tag": "prodDebug|arm64-v8a"
   },
   {
     "level": "INFO",
     "message": "Trying to locate CMake in local SDK repository.",
-    "file": "/home/arek/test/arqma-smajo-android/app/CMakeLists.txt",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
     "tag": "prodDebug|arm64-v8a"
   },
   {
     "level": "INFO",
-    "message": "- CMake found in SDK at \u0027/home/arek/Android/Sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
-    "file": "/home/arek/test/arqma-smajo-android/app/CMakeLists.txt",
+    "message": "- CMake found in SDK at \u0027C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
     "tag": "prodDebug|arm64-v8a"
   },
   {
     "level": "INFO",
-    "message": "JSON \u0027/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/arm64-v8a/android_gradle_build.json\u0027 was up-to-date",
-    "file": "/home/arek/test/arqma-smajo-android/app/CMakeLists.txt",
+    "message": "rebuilding JSON C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\arm64-v8a\\android_gradle_build.json due to:",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - C:\\home\\arek\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - C:\\home\\arek\\test\\arqma-smajo-android\\app\\CMakeLists.txt",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - C:\\home\\arek\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\arm64-v8a\u0027",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\arm64-v8a\u0027",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HC:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++11\n-DCMAKE_FIND_ROOT_PATH\u003dC:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\prefab\\arm64-v8a\\prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\n-DANDROID_PLATFORM\u003dandroid-21\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\build\\intermediates\\cmake\\prodDebug\\obj\\arm64-v8a\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_STL\u003dc++_shared\n-BC:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"C:/GitHub/NOWE/arqma-android-wallet-new/app\",\n  \"buildDirectory\": \"C:/GitHub/NOWE/arqma-android-wallet-new/app/.cxx/cmake/prodDebug/arm64-v8a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_CXX_FLAGS\\u003d-std\\u003dc++11\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003dC:\\\\GitHub\\\\NOWE\\\\arqma-android-wallet-new\\\\app\\\\.cxx\\\\cmake\\\\prodDebug\\\\prefab\\\\arm64-v8a\\\\prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dC:\\\\Users\\\\Arek\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.0.6113669\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darm64-v8a\",\n    \"-DANDROID_NDK\\u003dC:\\\\Users\\\\Arek\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.0.6113669\",\n    \"-DANDROID_PLATFORM\\u003dandroid-21\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darm64-v8a\",\n    \"-DCMAKE_ANDROID_NDK\\u003dC:\\\\Users\\\\Arek\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.0.6113669\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dC:\\\\GitHub\\\\NOWE\\\\arqma-android-wallet-new\\\\app\\\\build\\\\intermediates\\\\cmake\\\\prodDebug\\\\obj\\\\arm64-v8a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\Users\\\\Arek\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d21\",\n    \"-DANDROID_STL\\u003dc++_shared\"\n  ]\n}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"ABI_INFO\u003darm64-v8a\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "ABI_INFO\u003darm64-v8a",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"EXTERNAL_LIBS_DIR:C:/GitHub/NOWE/arqma-android-wallet-new/app/../external-libs\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "EXTERNAL_LIBS_DIR:C:/GitHub/NOWE/arqma-android-wallet-new/app/../external-libs",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/build/cmake/platforms.cmake\",\"C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\".cxx/cmake/prodDebug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake\",\".cxx/cmake/prodDebug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\".cxx/cmake/prodDebug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\".cxx/cmake/prodDebug/arm64-v8a/CMakeFiles/feature_tests.c\",\".cxx/cmake/prodDebug/arm64-v8a/CMakeFiles/feature_tests.c\",\".cxx/cmake/prodDebug/arm64-v8a/CMakeFiles/feature_tests.c\",\".cxx/cmake/prodDebug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\".cxx/cmake/prodDebug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/cmake/prodDebug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/cmake/prodDebug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/cmake/prodDebug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/cmake/prodDebug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"C:/Users/Arek/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"C:/GitHub/NOWE/arqma-android-wallet-new/app\",\"type\":\"reply\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Debug\",\"projects\":[{\"buildDirectory\":\"C:/GitHub/NOWE/arqma-android-wallet-new/app/.cxx/cmake/prodDebug/arm64-v8a\",\"name\":\"Project\",\"sourceDirectory\":\"C:/GitHub/NOWE/arqma-android-wallet-new/app\",\"targets\":[{\"artifacts\":[\"C:/GitHub/NOWE/arqma-android-wallet-new/app/build/intermediates/cmake/prodDebug/obj/arm64-v8a/libmonerujo.so\"],\"buildDirectory\":\"C:/GitHub/NOWE/arqma-android-wallet-new/app/.cxx/cmake/prodDebug/arm64-v8a\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -std\u003dc++11 -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"monerujo_EXPORTS\"],\"includePath\":[{\"path\":\"C:/GitHub/NOWE/arqma-android-wallet-new/app/../external-libs/arqma/include\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"src/main/cpp/monerujo.cpp\"]}],\"fullName\":\"libmonerujo.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libwallet_api.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libwallet.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libcryptonote_core.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libcryptonote_basic.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libmnemonics.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libringct.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libringct_basic.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libnet.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\libzmq\\\\lib\\\\arm64-v8a\\\\libzmq.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libcommon.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libcncrypto.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libblockchain_db.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\liblmdb.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libeasylogging.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libunbound.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libepee.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libcheckpoints.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libdevice.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libmultisig.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\libversion.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\librandomx.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\arqma\\\\lib\\\\arm64-v8a\\\\librpc_sig.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\boost\\\\lib\\\\arm64-v8a\\\\libboost_chrono.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\boost\\\\lib\\\\arm64-v8a\\\\libboost_date_time.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\boost\\\\lib\\\\arm64-v8a\\\\libboost_filesystem.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\boost\\\\lib\\\\arm64-v8a\\\\libboost_program_options.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\boost\\\\lib\\\\arm64-v8a\\\\libboost_regex.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\boost\\\\lib\\\\arm64-v8a\\\\libboost_serialization.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\boost\\\\lib\\\\arm64-v8a\\\\libboost_system.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\boost\\\\lib\\\\arm64-v8a\\\\libboost_thread.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\boost\\\\lib\\\\arm64-v8a\\\\libboost_wserialization.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\openssl\\\\lib\\\\arm64-v8a\\\\libssl.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\openssl\\\\lib\\\\arm64-v8a\\\\libcrypto.a ..\\\\..\\\\..\\\\..\\\\..\\\\external-libs\\\\libsodium\\\\lib\\\\arm64-v8a\\\\libsodium.a -llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"monerujo\",\"sourceDirectory\":\"C:/GitHub/NOWE/arqma-android-wallet-new/app\",\"sysroot\":\"C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\arm64-v8a\\build_output.txt",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
+    "tag": "prodDebug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\arm64-v8a\\build_command.txt",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
     "tag": "prodDebug|arm64-v8a"
   },
   {
     "level": "INFO",
     "message": "JSON generation completed without problems",
-    "file": "/home/arek/test/arqma-smajo-android/app/CMakeLists.txt",
+    "file": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt",
     "tag": "prodDebug|arm64-v8a"
   }
 ]

@@ -1,5 +1,5 @@
 #!/bin/bash
-packages=(boost openssl arqma libsodium libzmq)
+packages=(boost openssl arqma libsodium)
 archs=(arm arm64 x86 x86_64)
 #archs=(x86)
 

@@ -1,39 +1,39 @@
 {
   "stringTable": {
-    "0": "/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodRelease/armeabi-v7a",
-    "1": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/arek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/arek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dmonerujo_EXPORTS -I../../../../../external-libs/arqma/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -std=c++11 -Oz -DNDEBUG -fPIC"
+    "0": "C:/GitHub/NOWE/arqma-android-wallet-new/app/.cxx/cmake/prodRelease/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmonerujo_EXPORTS -I../../../../../external-libs/arqma/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -std=c++11 -Oz -DNDEBUG -fPIC"
   },
   "buildFiles": [
-    "/home/arek/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
-    "/home/arek/test/arqma-smajo-android/app/CMakeLists.txt",
-    "/home/arek/Android/Sdk/ndk/21.0.6113669/build/cmake/platforms.cmake"
+    "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt"
   ],
   "cleanCommands": [
-    "/home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodRelease/armeabi-v7a\" clean"
+    "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodRelease\\armeabi-v7a\" clean"
   ],
-  "buildTargetsCommand": "/home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodRelease/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodRelease\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "monerujo-Release-armeabi-v7a": {
-      "buildCommand": "/home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodRelease/armeabi-v7a\" monerujo",
+      "buildCommand": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodRelease\\armeabi-v7a\" monerujo",
       "buildType": "release",
-      "toolchain": "3403894751",
+      "toolchain": "2079110182",
       "abi": "armeabi-v7a",
       "artifactName": "monerujo",
       "files": [
         {
-          "src": "/home/arek/test/arqma-smajo-android/app/src/main/cpp/monerujo.cpp",
+          "src": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\src\\main\\cpp\\monerujo.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "/home/arek/test/arqma-smajo-android/app/build/intermediates/cmake/prodRelease/obj/armeabi-v7a/libmonerujo.so",
+      "output": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\build\\intermediates\\cmake\\prodRelease\\obj\\armeabi-v7a\\libmonerujo.so",
       "runtimeFiles": []
     }
   },
   "toolchains": {
-    "3403894751": {
-      "cppCompilerExecutable": "/home/arek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    "2079110182": {
+      "cppCompilerExecutable": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
     }
   },
   "cFileExtensions": [],

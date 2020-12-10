@@ -1,39 +1,39 @@
 {
   "stringTable": {
-    "0": "/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/x86",
-    "1": "--target=i686-none-linux-android21 --gcc-toolchain=/home/arek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/arek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dmonerujo_EXPORTS -I../../../../../external-libs/arqma/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -O0 -fno-limit-debug-info -fPIC"
+    "0": "C:/GitHub/NOWE/arqma-android-wallet-new/app/.cxx/cmake/prodDebug/x86",
+    "1": "--target=i686-none-linux-android21 --gcc-toolchain=C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Arek/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmonerujo_EXPORTS -I../../../../../external-libs/arqma/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -O0 -fno-limit-debug-info -fPIC"
   },
   "buildFiles": [
-    "/home/arek/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
-    "/home/arek/test/arqma-smajo-android/app/CMakeLists.txt",
-    "/home/arek/Android/Sdk/ndk/21.0.6113669/build/cmake/platforms.cmake"
+    "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\CMakeLists.txt"
   ],
   "cleanCommands": [
-    "/home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/x86\" clean"
+    "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\x86\" clean"
   ],
-  "buildTargetsCommand": "/home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "monerujo-Debug-x86": {
-      "buildCommand": "/home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/x86\" monerujo",
+      "buildCommand": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\.cxx\\cmake\\prodDebug\\x86\" monerujo",
       "buildType": "debug",
-      "toolchain": "3403894751",
+      "toolchain": "2079110182",
       "abi": "x86",
       "artifactName": "monerujo",
       "files": [
         {
-          "src": "/home/arek/test/arqma-smajo-android/app/src/main/cpp/monerujo.cpp",
+          "src": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\src\\main\\cpp\\monerujo.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "/home/arek/test/arqma-smajo-android/app/build/intermediates/cmake/prodDebug/obj/x86/libmonerujo.so",
+      "output": "C:\\GitHub\\NOWE\\arqma-android-wallet-new\\app\\build\\intermediates\\cmake\\prodDebug\\obj\\x86\\libmonerujo.so",
       "runtimeFiles": []
     }
   },
   "toolchains": {
-    "3403894751": {
-      "cppCompilerExecutable": "/home/arek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    "2079110182": {
+      "cppCompilerExecutable": "C:\\Users\\Arek\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
     }
   },
   "cFileExtensions": [],
