@@ -1,18 +1,19 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 28
-    buildToolsVersion '28.0.3'
+    compileSdkVersion 29
+    buildToolsVersion '29.0.2'
     defaultConfig {
         applicationId "com.arqma.Droid"
         minSdkVersion 21
         targetSdkVersion 28
-        versionCode 17
-        versionName "0.2.3 'arqmaDroid'"
+        versionCode 23
+        versionName "v0.6.1 'Arq-Droid Devil's Randomness"
 
         //testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         externalNativeBuild {
             cmake {
+                version "3.19.1"
                 cppFlags "-std=c++11"
                 arguments '-DANDROID_STL=c++_shared'
             }
@@ -99,7 +100,7 @@ dependencies {
     implementation 'org.slf4j:slf4j-nop:1.7.25'
 
     implementation "junit:junit:$rootProject.ext.junitVersion"
-    
+
     testImplementation "org.mockito:mockito-all:$rootProject.ext.mockitoVersion"
     testImplementation "com.squareup.okhttp3:mockwebserver:$rootProject.ext.okHttpVersion"
     testImplementation 'org.json:json:20180813'

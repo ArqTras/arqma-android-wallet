@@ -1,0 +1,43 @@
+{
+  "stringTable": {
+    "0": "/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=/home/arek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/arek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dmonerujo_EXPORTS -I../../../../../external-libs/arqma/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/arek/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/home/arek/test/arqma-smajo-android/app/CMakeLists.txt",
+    "/home/arek/Android/Sdk/ndk/21.0.6113669/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "monerujo-Debug-x86_64": {
+      "buildCommand": "/home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/x86_64\" monerujo",
+      "buildType": "debug",
+      "toolchain": "3403894751",
+      "abi": "x86_64",
+      "artifactName": "monerujo",
+      "files": [
+        {
+          "src": "/home/arek/test/arqma-smajo-android/app/src/main/cpp/monerujo.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/arek/test/arqma-smajo-android/app/build/intermediates/cmake/prodDebug/obj/x86_64/libmonerujo.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3403894751": {
+      "cppCompilerExecutable": "/home/arek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,7 @@
+Executable : /home/arek/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodDebug/x86
+monerujo
+jvmArgs : 
+

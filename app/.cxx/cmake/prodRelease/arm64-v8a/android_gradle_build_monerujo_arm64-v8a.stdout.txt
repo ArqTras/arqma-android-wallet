@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/arek/test/arqma-smajo-android/app/.cxx/cmake/prodRelease/arm64-v8a'
+ninja: no work to do.
